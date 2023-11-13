@@ -1,0 +1,22 @@
+.rotary__switch {
+  width: 100%;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.rotary__switch-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+.rotary__switch-container img {
+  width: 30rem;
+  border-radius: 1rem;
+}

@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&family=Open+Sans:wght@300&family=Playfair+Display:wght@500&family=Roboto:ital,wght@1,300&display=swap");
+@import url("https://fonts.cdnfonts.com/css/neogrey");
+
+:root {
+  --font-family: "Montserrat", sans-serif;
+  --font-title: "Neogrey";
+
+  --color-text-parchment: #f0e6c5;
+  --color-text-dark: #4a1c13;
+  --color-text-mustard: #ffd400;
+
+  --color-bg-gradient-primary: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(80, 16, 7, 1) 100%
+  );
+  --color-bg-gradient-secondary: linear-gradient(
+    289deg,
+    rgba(255, 212, 0, 1) 0%,
+    rgba(204, 78, 68, 1) 100%
+  );
+  --color-bg-gradient-tertiary: linear-gradient(
+    90deg,
+    rgba(255, 212, 0, 1) 0%,
+    rgba(240, 230, 197, 1) 100%
+  );
+}

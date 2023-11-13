@@ -1,0 +1,9 @@
+export { default as Article } from "./article/Article";
+export { default as Contact } from "./contact/Contact";
+export { default as Navbar } from "./navbar/Navbar";
+export { default as ImageSwitch } from "./imageSwitch/ImageSwitch";
+export { default as Map } from "./map/Map";
+export { default as Carousel } from "./carousel/Carousel";
+export { default as FormEmailBtn } from "./formEmailBtn/FormEmailBtn";
+export { default as NotFound } from "./notFound/NotFound";
+export { default as Footer } from "./footer/Footer";
